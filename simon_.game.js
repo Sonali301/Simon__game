@@ -87,6 +87,3 @@ function reSet () {
     userSeq = [];
     level = 0;
 }
-
-
-// homework to find the highest score by the user
